@@ -28,9 +28,7 @@ The online shopping platform built using React.js features intuitive product fil
 - **Description:** Transforming raw spatial data into meaningful insights using advanced geospatial analysis techniques.
   
 ## 📚 Skills
-- **Languages:** 
-  - JavaScript: :javascript:
-  - Python: :python:
+- **Languages:**  JavaScript, Python, SQL
 - **Frameworks & Libraries:** Flask, React, SQLAlchemy
 - **Tools & Technologies:** GIS (QGIS, ArcGIS), Web Development (HTML, CSS, JavaScript)
 - 
