@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Geospatial Engineer with a strong
 - **🌱 Learning & Growing:** Constantly expanding my knowledge in geospatial technologies and modern web development.
 - **🎓 Education:** Background in Geospatial Engineering focusing on leveraging software development for spatial data analysis.
 - **💬 Ask Me About** Geospatial analysis, full-stack development, Flask, React, and transforming data into insights.
-- **📫 How to Reach Me:** [Sylvia Chebet](sylviachebet03@gmail.com)
+- **📫 How to Reach Me:** [sylviachebet03@gmail.com](mailto:sylviachebet03@gmail.com)
 - **😄 Pronouns:** She/Her
 
 ## Projects
@@ -35,7 +35,7 @@ The online shopping platform built using React.js features intuitive product fil
 # 🌐 Connect with Me
 Let's collaborate and make something amazing together!
 - **LinkedIn:** [Sylvia Chebet Tuei](https://www.linkedin.com/in/sylvia-chebet-tuei/)
-- **Email:** [Sylvia Chebet](sylviachebet03@gmail.com)
+- **Email:** [sylviachebet03@gmail.com](mailto:sylviachebet03@gmail.com)
 
 
 
