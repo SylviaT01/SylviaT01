@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate Geospatial Engineer with a strong
 - **📫 How to Reach Me:** [Sylvia Chebet](sylviachebet03@gmail.com)
 - **😄 Pronouns:** she/her
 # 🗺️ Geospatial Insights
-- **Tools** Python, QGIS, ArcGIS
-- **Description** Transforming raw spatial data into meaningful insights using advanced geospatial analysis techniques.
+- **Tools:** Python, QGIS, ArcGIS
+- **Description:** Transforming raw spatial data into meaningful insights using advanced geospatial analysis techniques.
 # 📚 My Skills
 - **Languages:** JavaScript, Python, SQL
 - **Framework & Libraries:** Flask, React, SQLAlchemy
