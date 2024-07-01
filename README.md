@@ -15,13 +15,13 @@ Welcome to my GitHub profile! I'm a passionate Geospatial Engineer with a strong
 
 An innovative online platform for selling makeup products, integrating with a Makeup API for real-time product data.
 
-**Live Demo:**[La Radiant Makeup Store](https://la-radiant-makeup-store.vercel.app/)
+**Live Demo:** [La Radiant Makeup Store](https://la-radiant-makeup-store.vercel.app/)
 
 ### Swift MarketPlace
 
 The online shopping platform built using React.js features intuitive product filtering and a visually engaging user interface.
 
-**Live Demo:**[Swift MarketPlace](https://swift-marketplace.vercel.app/)
+**Live Demo:** [Swift MarketPlace](https://swift-marketplace.vercel.app/)
 
 ## 🗺️ Geospatial Insights
 - **Tools:** Python, QGIS, ArcGIS
