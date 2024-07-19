@@ -49,9 +49,8 @@ The online shopping platform built using React.js features intuitive product fil
 
 # 🌐 Connect with Me
 Let's collaborate and make something amazing together!
-- **LinkedIn:** [Sylvia Chebet Tuei](https://www.linkedin.com/in/sylvia-chebet-tuei/)
-- **Email:** [sylviachebet03@gmail.com](mailto:sylviachebet03@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvia%20Chebet%20Tuei-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvia-chebet-tuei/)
+[![Email](https://img.shields.io/badge/Email-sylviachebet03%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sylviachebet03@gmail.com)
 
 
 
