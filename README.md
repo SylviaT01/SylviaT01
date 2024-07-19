@@ -27,7 +27,7 @@ The online shopping platform built using React.js features intuitive product fil
 - **Tools:** Python, QGIS, ArcGIS
 - **Description:** Transforming raw spatial data into meaningful insights using advanced geospatial analysis techniques.
   
-## Skills
+## 🛠️ Skills
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
