@@ -49,7 +49,7 @@ The online shopping platform built using React.js features intuitive product fil
 
 # 🌐 Connect with Me
 Let's collaborate and make something amazing together!
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/sylvia-chebet-tuei/">
     <img src="https://img.shields.io/badge/LinkedIn-Sylvia%20Chebet%20Tuei-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
