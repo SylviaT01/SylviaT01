@@ -29,6 +29,10 @@ The online shopping platform built using React.js features intuitive product fil
   
 ## 📚 Skills
 - **Languages:**  JavaScript, Python, SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 - **Frameworks & Libraries:** Flask, React, SQLAlchemy
 - **Tools & Technologies:** GIS (QGIS, ArcGIS), Web Development (HTML, CSS, JavaScript)
 - 
