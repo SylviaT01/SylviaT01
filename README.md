@@ -27,15 +27,25 @@ The online shopping platform built using React.js features intuitive product fil
 - **Tools:** Python, QGIS, ArcGIS
 - **Description:** Transforming raw spatial data into meaningful insights using advanced geospatial analysis techniques.
   
-## 📚 Skills
-- **Languages:**  JavaScript, Python, SQL
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Skills
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- **Frameworks & Libraries:** Flask, React, SQLAlchemy
-- **Tools & Technologies:** GIS (QGIS, ArcGIS), Web Development (HTML, CSS, JavaScript)
-- 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA4245?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Technologies
+![QGIS](https://img.shields.io/badge/QGIS-3EAAAF?style=for-the-badge&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-007A33?style=for-the-badge&logo=arcgis&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 # 🌐 Connect with Me
 Let's collaborate and make something amazing together!
 - **LinkedIn:** [Sylvia Chebet Tuei](https://www.linkedin.com/in/sylvia-chebet-tuei/)
