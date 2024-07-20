@@ -1,6 +1,6 @@
 # Hi there, I'm Sylvia Chebet 👋🏼
 Welcome to my GitHub profile! I'm a passionate Geospatial Engineer with a strong enthusiasm for software development. I thrive on transforming spatial data into actionable insights and building robust full-stack applications. 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=SylviaT01&color=brightgreen)
 ## About me
 - **📚 Current study:** Studying Software Engineering at Moringa School
 - **🔭 Current Project:** Working on a Full-Stack application with a Flask API backend and a React frontend
