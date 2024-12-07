@@ -1,8 +1,6 @@
 # Hi there, I'm Sylvia Chebet 👋🏼
 Welcome to my GitHub profile! I'm a passionate Geospatial Engineer with a strong enthusiasm for software development. I thrive on transforming spatial data into actionable insights and building robust full-stack applications. 
 ## About me
-- **📚 Current study:** Studying Software Engineering at Moringa School
-- **🔭 Current Project:** Working on a Full-Stack application with a Flask API backend and a React frontend
 - **🌱 Learning & Growing:** Constantly expanding my knowledge in geospatial technologies and modern web development.
 - **🎓 Education:** Background in Geospatial Engineering focusing on leveraging software development for spatial data analysis.
 - **💬 Ask Me About** Geospatial analysis, full-stack development, Flask, React, and transforming data into insights.
