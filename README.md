@@ -9,17 +9,17 @@ Welcome to my GitHub profile! I'm a passionate Geospatial Engineer with a strong
 
 ## Projects
 
-### La-Radiant Makeup Store
+### Biashara First Healthcare
 
-An innovative online platform for selling makeup products, integrating with a Makeup API for real-time product data.
+ A platform designed to streamline the connection between businesses and healthcare facilities.
 
-**Live Demo:** [La Radiant Makeup Store](https://la-radiant-makeup-store.vercel.app/)
+**Live Demo:** [Biashara First Healthcare](https://biashara-first-healthcare.vercel.app/)
 
-### Swift MarketPlace
+### UrbanBazaar
 
-The online shopping platform built using React.js features intuitive product filtering and a visually engaging user interface.
+A web-based e-commerce platform designed to simplify online shopping by offering a vast selection of products across categories like electronics, mobiles, clothes, groceries.
 
-**Live Demo:** [Swift MarketPlace](https://swift-marketplace.vercel.app/)
+**Live Demo:** [UrbanBazaar](https://urban-bazaar-red.vercel.app/)
 
 ## 🗺️ Geospatial Insights
 - **Tools:** Python, QGIS, ArcGIS
@@ -37,6 +37,7 @@ The online shopping platform built using React.js features intuitive product fil
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA4245?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Tools & Technologies
 ![QGIS](https://img.shields.io/badge/QGIS-3EAAAF?style=for-the-badge&logo=qgis&logoColor=white)
